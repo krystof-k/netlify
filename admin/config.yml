@@ -2,6 +2,7 @@ backend:
   name: github
   repo: "krystof-k/netlify"
   branch: master
+  site_domain: krystof-k.github.io
 media_folder: assets
 collections:
   - name: "blog" # Used in routes, e.g. /admin/collections/blog

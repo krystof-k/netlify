@@ -3,3 +3,4 @@ backend:
   repo: krystof-k/netlify
   branch: master
   site_domain: flight-attendent-brady-58262.netlify.com
+media_folder: assets
